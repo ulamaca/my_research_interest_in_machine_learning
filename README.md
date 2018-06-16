@@ -5,11 +5,12 @@ In this repo, I will get all those ideas organized and share relevant informatio
 ## Reinforcement Learning:
 * Neuroscience and Psychology:
 	* MF and MB RL in the Brain for Control and Decision Making
+	* Decision Making Circuitry
 * Reinforcement Learning as Machine Learning:
 	* Latest Tech:
 	* Meta Learning:
  		* An introduction: [Learning to Learn (2017)](http://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/)
-	* MAML (2017), Evolved-PG (2018)
+		* MAML (2017), Evolved-PG (2018)
 * Reinforcemenet Learning Systems
 * Model-Based Reinforcement Learning
 
@@ -20,14 +21,14 @@ In this repo, I will get all those ideas organized and share relevant informatio
 	* Dynamics Learning
 * Generative Model (Density Estimation)
 	* GAN/VAE
-   * Learning by Dreaming 
+	* Learning by Dreaming 
 
 ## Machine Learning Methods:
 * Bayesian:
-   * Bayesian Neural Networks
+	* Bayesian Neural Networks
 
 ## Applications
 * Healthcare
-   * Computational Psychiatry
+	* Computational Psychiatry
 * Autonomous Driving
 * VR/AR/MR
