@@ -9,8 +9,10 @@ In this repo, I will get all those ideas organized and share relevant informatio
 * Reinforcement Learning as Machine Learning:
 	* Latest Tech:
 	* Meta Learning:
- 		* An introduction: [Learning to Learn (2017)](http://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/)
-		* MAML (2017), Evolved-PG (2018)
+ 		* Tutorials: 
+			* [Learning to Learn (2017)](http://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/)
+		* Papers: 
+			* MAML (2017), Evolved-PG (2018)
 * Reinforcemenet Learning Systems
 * Model-Based Reinforcement Learning
 
