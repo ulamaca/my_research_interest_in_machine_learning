@@ -9,7 +9,7 @@ In this repo, I will get all those ideas organized and share relevant informatio
 * Reinforcement Learning as Machine Learning:
 	* Latest Tech:
 	* Meta Learning:
- 		* Tutorials: 
+ 		* Reviews/Turorials: 
 			* [Learning to Learn (2017)](http://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/)
 		* Papers: 
 			* MAML (2017), Evolved-PG (2018)
@@ -19,7 +19,8 @@ In this repo, I will get all those ideas organized and share relevant informatio
 ## Unsupervised Learning
 * Representation Learning
 	* State Representation Learning 
-		* Review from Flower (2018)
+		* Reviews/Tutorials: 
+			* from Flower (2018)
 	* Dynamics Learning
 * Generative Model (Density Estimation)
 	* GAN/VAE
