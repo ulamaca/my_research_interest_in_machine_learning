@@ -4,13 +4,13 @@ In this repo, I will get all those ideas organized and share relevant informatio
 
 ## Reinforcement Learning:
 * Neuroscience and Psychology:
-..* MF and MB RL in the Brain for Control and Decision Making
+...* MF and MB RL in the Brain for Control and Decision Making
 * Reinforcement Learning as Machine Learning:
-		- Latest Tech
-		- Meta Learning
-			- MAML (2017), Evolved-PG (2018)
-		- Reinforcemenet Learning Systems
-		- Model-Based Reinforcement Learning
+... Latest Tech
+... Meta Learning
+......* MAML (2017), Evolved-PG (2018)
+... Reinforcemenet Learning Systems
+......* Model-Based Reinforcement Learning
 
 ## Unsupervised Learning
 * Representation Learning
