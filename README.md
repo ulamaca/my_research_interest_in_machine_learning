@@ -5,7 +5,7 @@ In this repo, I will get all those ideas organized and share relevant informatio
 ## Reinforcement Learning:
 * Neuroscience and Psychology:
 ..* MF and MB RL in the Brain for Control and Decision Making
-... *Reinforcement Learning as Machine Learning:
+* Reinforcement Learning as Machine Learning:
 		- Latest Tech
 		- Meta Learning
 			- MAML (2017), Evolved-PG (2018)
@@ -13,20 +13,20 @@ In this repo, I will get all those ideas organized and share relevant informatio
 		- Model-Based Reinforcement Learning
 
 ## Unsupervised Learning
-	- Representation Learning
+* Representation Learning
 		- State Representation Learning 
 			- Review from Flower (2018)
 		- Dynamics Learning
-	- Generative Model (Density Estimation)
+* Generative Model (Density Estimation)
 		- GAN/VAE
 		- Learning by Dreaming 
 
 ## Machine Learning Methods:
-	- Bayesian:
+* Bayesian:
 		- Bayesian Neural Networks
 
 ## Applications
-	- Healthcare
+* Healthcare
 		- Computational Psychiatry
-	- Autonomous Driving
-	- VR/AR/MR
+* Autonomous Driving
+* VR/AR/MR
