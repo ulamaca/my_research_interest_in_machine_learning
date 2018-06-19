@@ -3,6 +3,7 @@ My main research interest lies in reinforcement learning and unsupervised learni
 In this repo, I will get all those ideas organized and share relevant information (e.g. papers, tech reports, news...) hope to form a very comprehensive but coherent roadmap showing what my research focu will be in the futrue.
 
 #Resources:
+
 ## Reinforcement Learning:
 * Neuroscience and Psychology:
 	* MF and MB RL in the Brain for Control and Decision Making
@@ -11,9 +12,9 @@ In this repo, I will get all those ideas organized and share relevant informatio
 	* Latest Tech:
 	* Meta Learning:
  		* Reviews/Turorials: 
-			* [Learning to Learn (2017)](http://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/)
+			* [Blog by Chelsea Finn, Learning to Learn (2017)](http://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/)
 		* Papers: 
-			* MAML (2017), Evolved-PG (2018)
+			* [MAML (Finn et al. 2017)](https://arxiv.org/abs/1703.03400), [Evolved-PG (Houthooft et al. 2018)](https://arxiv.org/abs/1802.04821)
 * Reinforcemenet Learning Systems
 * Model-Based Reinforcement Learning
 
@@ -21,7 +22,7 @@ In this repo, I will get all those ideas organized and share relevant informatio
 * Representation Learning
 	* State Representation Learning 
 		* Reviews/Tutorials: 
-			* [State Representation Learning Review (2018)](https://arxiv.org/abs/1802.04181)
+			* [State Representation Learning Review (Lesort et al. 2018)](https://arxiv.org/abs/1802.04181)
 	* Dynamics Learning
 * Generative Model (Density Estimation)
 	* GAN/VAE
@@ -39,9 +40,8 @@ In this repo, I will get all those ideas organized and share relevant informatio
 * Healthcare
 	* Computational Psychiatry
 	* Reviews/Tutorials:
-		* [Reinforcement Learning in Healthcare: Challenges and Promise (Video, 2018)](https://www.youtube.com/watch?v=OsGxPVYR2xo)
+		* [Reinforcement Learning in Healthcare: Challenges and Promise (Video by Finale Doshi-Velez, 2018)](https://www.youtube.com/watch?v=OsGxPVYR2xo)
 	* Papers:
-		* [(Counterfactual Inference in Healthcare) 
-Learning Representations for Counterfactual Inference](https://arxiv.org/abs/1605.03661)
+		* [Learning Representations for Counterfactual Inference (Johansson et al 2016)](https://arxiv.org/abs/1605.03661)
 * Autonomous Driving
 * VR/AR/MR
