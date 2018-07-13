@@ -11,7 +11,7 @@ In this repo, I will get all those ideas organized and share relevant informatio
 * Reinforcement Learning as Machine Learning:
 	* Latest Tech:
 		* Papers:
-		* [Parameter Space Noise for Exploration (Plappert et al.) (2018)](https://arxiv.org/abs/1706.01905)
+			* [Parameter Space Noise for Exploration (Plappert et al.) (2018)](https://arxiv.org/abs/1706.01905)
 	* Meta Learning:
  		* Reviews/Turorials: 
 			* [Blog by Chelsea Finn, Learning to Learn (2017)](http://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/)
