@@ -32,7 +32,8 @@ In this repo, I will get all those ideas organized and share relevant informatio
     * 2018 Udacity DRL Nano-Degree with Github Repo
     * 2018-19 DeepMind/UCL Advanced Deep Learning and Reinforcement Learning
     * 2018-19 OpenAI Spinning Up with Github Repo
-    * 2018 UC Berkerley CS294-112 by Sergey Levine
+    * 2018 UC Berkerley CS294-112 DRL by Sergey Levine
+    * 2019 MIT Reinforcement Learning and Control by Dimitri Bertsekas http://web.mit.edu/dimitrib/www/RLbook.html
     * 2015 UCL Reinforcement Learning by David Silver
     * 2018-2019 Intro. to DRL (a survey paper) https://arxiv.org/abs/1811.12560 
     * 2018 Yuxi Li's comprehensive DRL survey (keep updating) https://arxiv.org/abs/1701.07274
@@ -45,7 +46,7 @@ In this repo, I will get all those ideas organized and share relevant informatio
     * Github Repo: PaddlePaddle (Baidu's Platform)
     * Github Repo: OpenAI Baselines 
     * Github Repo: Rich Sutton's Solution, https://github.com/ShangtongZhang/reinforcement-learning-an-introduction
-    * Github Repo: 
+    * Github Repo: Morvan's tutorials, comprehensive materials (programming, DL, RL...)
 * Blog Posts:    
     * 2018 Blog Post: alexirpan's RL is not working Yet
     * 2016 Blog Post: Andrej Karpathy's Pong from Pixels     
