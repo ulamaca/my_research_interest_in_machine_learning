@@ -9,6 +9,7 @@ In this repo, I will get all those ideas organized and share relevant informatio
 * Neuroscience and Psychology:
 	* MF and MB RL in the Brain for Control and Decision Making
 	* Decision Making Circuitry
+<<<<<<< HEAD
     
 * Reinforcement Learning
 	* Research directions: Multi-Agent Systems, Gradients-Free Methods (Evolution-based), Hyperams Optimization, Bandits, Data Efficiency, Distributed Systems, Architecture Search, Curiosity and Exploration, Model-based RL, 
@@ -20,6 +21,19 @@ In this repo, I will get all those ideas organized and share relevant informatio
         * Pioneer approach for meta-learning for DRL
     * [2018 Evolved-PG (Houthooft et al. 2018)](https://arxiv.org/abs/1802.04821),
         * marriage of PG and evolution-based methods, boosting data efficiencey.
+=======
+* Reinforcement Learning as Machine Learning:
+	* Latest Tech:
+		* Papers:
+			* [Parameter Space Noise for Exploration (Plappert et al.) (2018)](https://arxiv.org/abs/1706.01905)
+	* Meta Learning:
+ 		* Reviews/Turorials: 
+			* [Blog by Chelsea Finn, Learning to Learn (2017)](http://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/)
+		* Papers: 
+			* [MAML (Finn et al. 2017)](https://arxiv.org/abs/1703.03400), [Evolved-PG (Houthooft et al. 2018)](https://arxiv.org/abs/1802.04821)
+* Reinforcemenet Learning Systems
+* Model-Based Reinforcement Learning
+>>>>>>> de3f3f2ed77d03512f8a39598747121c8c97ffe5
 
 ### Resources for Learning:
 * Courses:
