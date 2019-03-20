@@ -4,6 +4,16 @@ In this repo, I will get all those ideas organized and share relevant informatio
 
 # Resources:
 
+* Latest (Not digested):
+    * 2019.03.20: 
+        * Tutorial about Transformer (NLP) https://arxiv.org/abs/1903.00374?utm_campaign=Deep%20Learning%20Weekly&utm_medium=email&utm_source=Revue%20newsletter
+        * MBRL for Atari (Levine's group) https://sites.google.com/view/modelbasedrlatari/home
+        * Blog post on HRL: https://thegradient.pub/the-promise-of-hierarchical-reinforcement-learning/
+        * A review for RL for game playing https://arxiv.org/abs/1708.07902
+            * great historical summary of development of DQN
+    
+     
+
 ## Reinforcement Learning:
 ### Research Papers:
 * Neuroscience and Psychology:
