@@ -6,11 +6,12 @@ In this repo, I will get all those ideas organized and share relevant informatio
 
 * Latest (Not digested):
     * 2019.03.20: 
-        * Tutorial about Transformer (NLP) https://arxiv.org/abs/1903.00374?utm_campaign=Deep%20Learning%20Weekly&utm_medium=email&utm_source=Revue%20newsletter
-        * MBRL for Atari (Levine's group) https://sites.google.com/view/modelbasedrlatari/home
-        * Blog post on HRL: https://thegradient.pub/the-promise-of-hierarchical-reinforcement-learning/
-        * A review for RL for game playing https://arxiv.org/abs/1708.07902
+        * 1 Tutorial about Transformer (NLP) https://arxiv.org/abs/1903.00374?utm_campaign=Deep%20Learning%20Weekly&utm_medium=email&utm_source=Revue%20newsletter
+        * 2 MBRL for Atari (Levine's group) https://sites.google.com/view/modelbasedrlatari/home
+        * 3 Blog post on HRL: https://thegradient.pub/the-promise-of-hierarchical-reinforcement-learning/
+        * 4 A review for RL for game playing https://arxiv.org/abs/1708.07902
             * great historical summary of development of DQN
+	* 5 TF dev summit (check TF's medium) + the tutorial from ageron
     
      
 
@@ -70,6 +71,8 @@ In this repo, I will get all those ideas organized and share relevant informatio
 * State Representation Learning
 	* [State Representation Learning Review (Lesort et al. 2018)](https://arxiv.org/abs/1802.04181)
         * A comprehensive review of state representation learning for control/reinforcement learning.
+* [my own master thesis](https://drive.google.com/file/d/1wRXt6PFYZ2QVWhvixJ_ZYiXbfG4QE41b/view), Chapter 2 summarizes representatation learning and autoencoders:
+   
             
 ### Resources for Learning:
 * Courses:   
@@ -85,9 +88,11 @@ In this repo, I will get all those ideas organized and share relevant informatio
     * Standord's CNN, NLP courses
     * TF Summit 2019 Mar. 
         * TensorFlow 2.0 into https://www.youtube.com/watch?v=k5c-vg4rjBw
+    * PyTorhc, TF dictionary (for searching for useful command): https://www.aiworkbox.com/lessons
 * Repos:   
     * David Abel's Summary for Major ML conferences
     * ageron's tf_2 course and hands-on book are great for learning DL programming (using Keras/TF)
+	* http://www.10tiao.com/html/511/201903/2652040568/4.html his talk in chinese
     * Udacity's DL_Pytorch, good examples https://github.com/udacity/DL_PyTorch
 * Blog Posts:    
     * (RNN) Chris Olah's RNN Tutorial http://colah.github.io/posts/2015-08-Understanding-LSTMs/  
