@@ -5,13 +5,11 @@ In this repo, I will get all those ideas organized and share relevant informatio
 # Resources:
 
 * Latest (Not digested):
-    * 2019.03.20: 
-        * 1 Tutorial about Transformer (NLP) https://arxiv.org/abs/1903.00374?utm_campaign=Deep%20Learning%20Weekly&utm_medium=email&utm_source=Revue%20newsletter
-        * 2 MBRL for Atari (Levine's group) https://sites.google.com/view/modelbasedrlatari/home
-        * 3 Blog post on HRL: https://thegradient.pub/the-promise-of-hierarchical-reinforcement-learning/
-        * 4 A review for RL for game playing https://arxiv.org/abs/1708.07902
-            * great historical summary of development of DQN
-	* 5 TF dev summit (check TF's medium) + the tutorial from ageron
+    * 2019.03.25: 
+        * 1 Tutorial about Transformer (NLP) https://arxiv.org/abs/1903.00374?utm_campaign=Deep%20Learning%20Weekly&utm_medium=email&utm_source=Revue%20newsletter     
+        * https://towardsdatascience.com/checklist-for-debugging-neural-networks-d8b2a9434f21
+	* TF dev summit (check TF's medium) 
+    * TF2, the tutorial from ageron
     
      
 
@@ -23,6 +21,12 @@ In this repo, I will get all those ideas organized and share relevant informatio
     
 * Reinforcement Learning
 	* Research directions: Multi-Agent Systems, Gradients-Free Methods (Evolution-based), Hyperams Optimization, Bandits, Data Efficiency, Distributed Systems, Architecture Search (AutoML), Curiosity and Exploration, Model-based RL, 
+    * [MBRL for Atari (Lukasz Kaiser et al. 2019)](https://sites.google.com/view/modelbasedrlatari/home)
+        - extend world models (Ha et al. 2018) into Atari environment, and achieved 10x steps sample efficiency.
+        - technical:
+            - world model is using E-D arch (like Oh's 2015) with several tricks: 1. skipped connections, like Ladder networks, 2. influences of action embedding on all decoding layers, 3. discrete representation (from other 2018 work) to prevent temporal prediction error accumulation, 4. stochastic models has a reccurrent module work as q-sampling mechanism in VAE. ; 3. esp. 4. can be studied in more details.
+        - one source of stochasisity of Atari comes from frame stacking (consecutive previous 4 frames) will miss effect of certain actions such as pause which lasts more than 4 frames.
+        - some inspiration for building dynamic latent models; I am always thinking the decoding part can be removed, probably something can be done with skipped connection tricks.           
     * [2018 TD3](https://arxiv.org/abs/1802.09477)
         * Top value-based methods in 2018
     * [2018 Soft Actor-Critic](https://arxiv.org/abs/1801.01290)
@@ -44,6 +48,8 @@ In this repo, I will get all those ideas organized and share relevant informatio
     * 2018-19 DeepMind/UCL Advanced Deep Learning and Reinforcement Learning
     * 2018-19 OpenAI Spinning Up with Github Repo
     * 2018 UC Berkerley CS294-112 DRL by Sergey Levine
+    * 2018 [Deep Learning for Video Game Playing](https://arxiv.org/abs/1708.07902)
+        * great historical summary of development of DQN, specialized for game playing applications
     * 2019 MIT Reinforcement Learning and Control by Dimitri Bertsekas http://web.mit.edu/dimitrib/www/RLbook.html
     * 2015 UCL Reinforcement Learning by David Silver
     * 2018-2019 Intro. to DRL (a survey paper) https://arxiv.org/abs/1811.12560 
@@ -65,6 +71,11 @@ In this repo, I will get all those ideas organized and share relevant informatio
     * 2018 Blog Post: Lessons Learned Reproducing a Deep Reinforcement Learning Paper http://amid.fish/reproducing-deep-rl
     * 2018 Blog Series: Ben Recht, benchmark between PG and random search ttp://www.argmin.net/
     * 2017 Notes: Notes from John Schulman's "Nuts and Bolts of Deep RL Experimentation" lecture https://github.com/williamFalcon/DeepRLHacks
+    * 2019 Blog post on HRL: https://thegradient.pub/the-promise-of-hierarchical-reinforcement-learning/
+        - concept: decompose the tasks into pretinent granularity, then solve subtasks, in the end solve the main in the end.
+        - four fundamental approaches: 1. Feudal networks (manager-worker sysmems), 2. options framework, 3. HAM, finite state transition models with states abstract from env/agent information can be context (for states) and pre-designed options (for action executions), 4. MaxQ: tree representation
+            - A summary for proper situations for each methods mentioned    
+        - list recent works to extend these approaches with DNNs
     
 ## Unsupervised Learning
 ### Research Papers
@@ -97,6 +108,7 @@ In this repo, I will get all those ideas organized and share relevant informatio
 * Blog Posts:    
     * (RNN) Chris Olah's RNN Tutorial http://colah.github.io/posts/2015-08-Understanding-LSTMs/  
     * (RNN) Andrej Karpathy's RNN simple experiments
+    * [2019 (Classification)分类性能度量指标：ROC曲线、AUC值、正确率、召回率、敏感度、特异度](https://blog.csdn.net/miao0967020148/article/details/88583824)
 
 ## Applications
 ### Research Papers:
