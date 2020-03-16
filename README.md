@@ -51,7 +51,7 @@ In this repo, I will get all those ideas organized and share relevant informatio
     * My own implementation for DRLND
     
 * Blog Posts:        
-    * 2020 [Paths perspectives on value learning (offering good intuition for thinking TD methods)](https://distill.pub/2019/paths-perspective-on-value-learning/)    
+    * 2020 [Paths perspectives on value learning (offering good intuition ground for thinking about TD methods)](https://distill.pub/2019/paths-perspective-on-value-learning/)    
     * 2020 [My Top 10 Deep RL Papers of 2019 (summarized by Robert Lange) ](https://roberttlange.github.io/posts/2019/12/blog-post-9/?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter )
     * 2020 [Model-Based Reinforcement Learning: Theory and Practice (incl. the idea of MBPO)](https://bair.berkeley.edu/blog/2019/12/12/mbpo/)
     * 2019 [BREAKTHROUGH RESEARCH IN REINFORCEMENT LEARNING FROM 2019 (summarized by TOPBOTS)](https://www.topbots.com/top-ai-reinforcement-learning-research-papers-2019/)
