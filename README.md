@@ -16,9 +16,9 @@ In this repo, I will get all those ideas organized and share relevant informatio
     * 2018 Udacity DRL Nano-Degree with Github Repo
     * 2018 UC Berkerley CS294-112 DRL by Sergey Levine                
     * 2015 UCL Reinforcement Learning by David Silver         
-    * 2017 Nuts and Bolts of Deep RL Experimentation by John Schulman (about DRL experimentation) https://www.youtube.com/watch?v=8EcdaCk9KaQ
-    * [2013 Marc Toussant's Bandits, Active Learning, Bayesian RL and Global Optimization](https://www.youtube.com/watch?v=5rev-zVx1Ps)
-    * Morvan (莫煩) Youtube Channel: comprehensive materials (programming, DL, RL...)
+    * 2017 [Nuts and Bolts of Deep RL Experimentation by John Schulman (about DRL experimentation)] https://www.youtube.com/watch?v=8EcdaCk9KaQ
+    * 2013 [Marc Toussant's Bandits, Active Learning, Bayesian RL and Global Optimization](https://www.youtube.com/watch?v=5rev-zVx1Ps)
+    * Morvan's (莫煩) Youtube Channel: comprehensive materials (programming, DL, RL...)
     
 * Surveys Papers:      
     * 2019 [Challenges of Real-World Reinforcement Learning](https://arxiv.org/pdf/1904.12901.pdf)
@@ -26,10 +26,9 @@ In this repo, I will get all those ideas organized and share relevant informatio
     * 2019 [RL in Healthcare](https://www.semanticscholar.org/paper/Reinforcement-Learning-in-Healthcare%3A-A-Survey-Yu-Liu/222baa4e9e7ce691fdfddbc826a70e027daed70d)     
     * 2019 [Introduction to DRL (a survey paper from U. McGills)](https://arxiv.org/abs/1811.12560)   
     * 2019 [A Survey of Reinforcement Learning Informed by Natural Language](https://arxiv.org/abs/1906.03926) 
-    * 2018 [State Representation Learning Review (Lesort et al. 2018)](https://arxiv.org/abs/1802.04181)
-    * 2018 My own summary on representation learning [my own master thesis](https://drive.google.com/file/d/1wRXt6PFYZ2QVWhvixJ_ZYiXbfG4QE41b/view), Chapter 2 summarizes representatation learning and autoencoders:
+    * 2018 [State Representation Learning Review (Lesort et al. 2018)](https://arxiv.org/abs/1802.04181)    
     * 2018 [Deep Learning for Video Game Playing](https://arxiv.org/abs/1708.07902)
-    * 2018 [Yuxi Li's comprehensive DRL survey (keep updating)](https://arxiv.org/abs/1701.07274)
+    * 2018 [A comprehensive DRL survey (keep updating)](https://arxiv.org/abs/1701.07274)
     * 2013 [Reinforcement Learning for Robotics](https://www.researchgate.net/publication/258140920_Reinforcement_Learning_in_Robotics_A_Survey)
         
 * Repos:    
@@ -44,6 +43,7 @@ In this repo, I will get all those ideas organized and share relevant informatio
     * [PaddlePaddle-RARL, from Baidu](https://github.com/PaddlePaddle/PARL)      
     * [Rich Sutton's Solution](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
     * [Facebook's Horizon](https://github.com/facebookresearch/Horizon)
+    * Keras-RL
     * TensorForce
     * Ray-lib
     * Github Repo: Denny Britz's RL
@@ -62,7 +62,7 @@ In this repo, I will get all those ideas organized and share relevant informatio
     * 2017 [Otoro's Evolution-based methods, highly visual and interactive](http://blog.otoro.net/2017/10/29/visual-evolution-strategies/)    
     * 2018 [Lessons Learned Reproducing a Deep Reinforcement Learning Paper](http://amid.fish/reproducing-deep-rl)
     * 2018 [Ben Recht, benchmark between PG and random search](http://www.argmin.net/)
-    * 2017 [Notes from John Schulman's "Nuts and Bolts of Deep RL Experimentation](https://github.com/williamFalcon/DeepRLHacks)
+    
 
 * Books:
     * [DRL in Actions (2020)](https://www.manning.com/books/deep-reinforcement-learning-in-action)
@@ -71,10 +71,18 @@ In this repo, I will get all those ideas organized and share relevant informatio
 * Periodicals:
     * [The Gradient](https://thegradient.pub/)
     * [BAIR BLOG](https://bair.berkeley.edu/blog/?refresh=1)
-    * [JiQiZhiXin (Synced)](https://www.jiqizhixin.com)
+    * [JiQiZhiXin (Synced, in Chinese)](https://www.jiqizhixin.com)
     * [RL Weekly by Ryan Lee](https://www.getrevue.co/profile/seungjaeryanlee)    
     * [RL FB Group](https://www.facebook.com/groups/36085277798/)
     
 * TIPS:
     * Advice for paper reading from Abbeel (FSDL-2019: Research Direction)   
-    * [Machine Learning Productivity Hacks](http://amid.fish/ml-productivity)          
+    * [Machine Learning Productivity Hacks](http://amid.fish/ml-productivity)
+    * 2017 [Notes from John Schulman's "Nuts and Bolts of Deep RL Experimentation](https://github.com/williamFalcon/DeepRLHacks)          
+
+* Mine:
+    * 2019 My Talk on PG method Introduction at Kaohsiung Taiwan [video](), [slides]()
+    * 2019 My DRL repo for DRLND@Udacity
+    * 2017 My survey one MB/MF RL in the Brain    
+    * 2018 My own summary on representation learning [my own master, thesis Chapter 2 summarizes representatation learning and autoencoders](https://drive.google.com/file/d/1wRXt6PFYZ2QVWhvixJ_ZYiXbfG4QE41b/view)
+    
