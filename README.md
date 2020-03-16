@@ -18,7 +18,7 @@ In this repo, I will get all those ideas organized and share relevant informatio
     * 2015 UCL Reinforcement Learning by David Silver         
     * 2017 [Nuts and Bolts of Deep RL Experimentation by John Schulman (about DRL experimentation)](https://www.youtube.com/watch?v=8EcdaCk9KaQ)
     * 2013 [Marc Toussant's Bandits, Active Learning, Bayesian RL and Global Optimization](https://www.youtube.com/watch?v=5rev-zVx1Ps)
-    * Morvan's (莫煩) Youtube Channel: comprehensive materials (programming, DL, RL...)
+    * Morvan's (莫煩) Youtube Channel: comprehensive materials: From Python to DL/RL/ML
     
 * Surveys Papers:      
     * 2019 [Challenges of Real-World Reinforcement Learning](https://arxiv.org/pdf/1904.12901.pdf)
@@ -51,6 +51,7 @@ In this repo, I will get all those ideas organized and share relevant informatio
     * My own implementation for DRLND
     
 * Blog Posts:        
+    * 2020 [Paths perspectives on value learning (offering good intuition for thinking TD methods)](https://distill.pub/2019/paths-perspective-on-value-learning/)    
     * 2020 [My Top 10 Deep RL Papers of 2019 (summarized by Robert Lange) ](https://roberttlange.github.io/posts/2019/12/blog-post-9/?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter )
     * 2020 [Model-Based Reinforcement Learning: Theory and Practice (incl. the idea of MBPO)](https://bair.berkeley.edu/blog/2019/12/12/mbpo/)
     * 2019 [BREAKTHROUGH RESEARCH IN REINFORCEMENT LEARNING FROM 2019 (summarized by TOPBOTS)](https://www.topbots.com/top-ai-reinforcement-learning-research-papers-2019/)
@@ -69,6 +70,7 @@ In this repo, I will get all those ideas organized and share relevant informatio
     * [RL: An intro. (classic)](http://incompleteideas.net/book/the-book.html)
 
 * Periodicals:
+    * [Distill](https://distill.pub/)
     * [The Gradient](https://thegradient.pub/)
     * [BAIR BLOG](https://bair.berkeley.edu/blog/?refresh=1)
     * [JiQiZhiXin (Synced, in Chinese)](https://www.jiqizhixin.com)
