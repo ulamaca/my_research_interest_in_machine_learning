@@ -16,7 +16,7 @@ In this repo, I will get all those ideas organized and share relevant informatio
     * 2018 Udacity DRL Nano-Degree with Github Repo
     * 2018 UC Berkerley CS294-112 DRL by Sergey Levine                
     * 2015 UCL Reinforcement Learning by David Silver         
-    * 2017 [Nuts and Bolts of Deep RL Experimentation by John Schulman (about DRL experimentation)] https://www.youtube.com/watch?v=8EcdaCk9KaQ
+    * 2017 [Nuts and Bolts of Deep RL Experimentation by John Schulman (about DRL experimentation)](https://www.youtube.com/watch?v=8EcdaCk9KaQ)
     * 2013 [Marc Toussant's Bandits, Active Learning, Bayesian RL and Global Optimization](https://www.youtube.com/watch?v=5rev-zVx1Ps)
     * Morvan's (莫煩) Youtube Channel: comprehensive materials (programming, DL, RL...)
     
