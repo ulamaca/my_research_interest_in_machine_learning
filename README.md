@@ -1,122 +1,79 @@
-# My Interest in AI and Neuroscience:
-My main research interest lies in reinforcement learning and unsupervised learning. I believe that perfect combination of the two can raise the autonomy of machine to a much higer level. My attention is not limited on the hard-core machine learning side but also in its implication in the brain or how inspiration can one get from biological brains on the other way around. Last but not the least, possible applications to technology of this line of research are also very exciting. 
-In this repo, I will get all those ideas organized and share relevant information (e.g. papers, tech reports, news...) hope to form a very comprehensive but coherent roadmap showing what my research focu will be in the futrue.
+# Resources for Deep Reinforcement Learning
+My main research interest lies in reinforcement learning and unsupervised learning. 
+I believe that perfect combination of the two can raise the autonomy of machine to a much higher level. M
+y attention is not limited on the hard-core machine learning side but also in its implication in the brain or how inspiration can one get from biological brains on the other way around. 
+Last but not the least, possible applications to technology of this line of research are also very exciting. 
+In this repo, I will get all those ideas organized and share relevant information (e.g. papers, tech reports, news...) hope to form a very comprehensive but coherent roadmap showing what my research focus will be in the future.
+(2020.03.16 Updated) Those not relevant directly to RL will be moved to misc.md file for succinctness.
 
-# Resources:
-
-* Latest (Not digested):
-    * 2019.03.25: 
-        * 1 Tutorial about Transformer (NLP) https://arxiv.org/abs/1903.00374?utm_campaign=Deep%20Learning%20Weekly&utm_medium=email&utm_source=Revue%20newsletter     
-        * https://towardsdatascience.com/checklist-for-debugging-neural-networks-d8b2a9434f21
-	* TF dev summit (check TF's medium) 
-    * TF2, the tutorial from ageron
     
-     
-
-## Reinforcement Learning:
-### Research Papers:
-* Neuroscience and Psychology:
-	* MF and MB RL in the Brain for Control and Decision Making
-	* Decision Making Circuitry
-    
-* Reinforcement Learning
-	* Research directions: Multi-Agent Systems, Gradients-Free Methods (Evolution-based), Hyperams Optimization, Bandits, Data Efficiency, Distributed Systems, Architecture Search (AutoML), Curiosity and Exploration, Model-based RL, 
-    * [MBRL for Atari (Lukasz Kaiser et al. 2019)](https://sites.google.com/view/modelbasedrlatari/home)
-        - extend world models (Ha et al. 2018) into Atari environment, and achieved 10x steps sample efficiency.
-        - technical:
-            - world model is using E-D arch (like Oh's 2015) with several tricks: 1. skipped connections, like Ladder networks, 2. influences of action embedding on all decoding layers, 3. discrete representation (from other 2018 work) to prevent temporal prediction error accumulation, 4. stochastic models has a reccurrent module work as q-sampling mechanism in VAE. ; 3. esp. 4. can be studied in more details.
-        - one source of stochasisity of Atari comes from frame stacking (consecutive previous 4 frames) will miss effect of certain actions such as pause which lasts more than 4 frames.
-        - some inspiration for building dynamic latent models; I am always thinking the decoding part can be removed, probably something can be done with skipped connection tricks.           
-    * [2018 TD3](https://arxiv.org/abs/1802.09477)
-        * Top value-based methods in 2018
-    * [2018 Soft Actor-Critic](https://arxiv.org/abs/1801.01290)
-        * Develop tricks allowing DDPG use stochastic policy
-    * [2018 Evolved-PG (Houthooft et al. 2018)](https://arxiv.org/abs/1802.04821),
-        * marriage of PG and evolution-based methods, boosting data efficiencey.
-    * [2017 MAML (Finn et al. 2017)](https://arxiv.org/abs/1703.03400), [Related Blog by Chelsea Finn, Learning to Learn (2017)](http://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/)
-        * Pioneer approach for meta-learning for DRL
-    * [2017 Curiosity-driven exploration by self-supervised prediction](https://scholar.google.com/citations?user=AEsPCAUAAAAJ&hl=en#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DAEsPCAUAAAAJ%26citation_for_view%3DAEsPCAUAAAAJ%3A_FxGoFyzp5QC%26tzom%3D-480)
-        * ICM module motivates agent to try out unclear part to crave agent's state space. In the end, learned a predictive representation empowering agent to work to some degree without any external supervision.
-    * [2017 MADDPG]
-        * Using centralized critic to generalize DDPG to general multi-agent setting
-    * [2017 PPO]
-        * data efficient and easy-to-implement policy gradients agents; also check DeepMind's Parkour agent.
-
-### Resources for Learning:
-* Courses:
-    * 2018 Udacity DRL Nano-Degree with Github Repo
-    * 2018-19 DeepMind/UCL Advanced Deep Learning and Reinforcement Learning
+## Resources:
+* Tutorials/Courses
+    * 2019 [ICML tutorial on Meta-learning](https://sites.google.com/view/icml19metalearning) 
+    * [2019 MIT Reinforcement Learning and Control by Dimitri Bertsekas](http://web.mit.edu/dimitrib/www/RLbook.html)
+    * [2018-19 DeepMind/UCL Advanced Deep Learning and Reinforcement Learning](https://www.youtube.com/watch?v=iOh7QUZGyiU&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
     * 2018-19 OpenAI Spinning Up with Github Repo
-    * 2018 UC Berkerley CS294-112 DRL by Sergey Levine
-    * 2018 [Deep Learning for Video Game Playing](https://arxiv.org/abs/1708.07902)
-        * great historical summary of development of DQN, specialized for game playing applications
-    * 2019 MIT Reinforcement Learning and Control by Dimitri Bertsekas http://web.mit.edu/dimitrib/www/RLbook.html
-    * 2015 UCL Reinforcement Learning by David Silver
-    * 2018-2019 Intro. to DRL (a survey paper) https://arxiv.org/abs/1811.12560 
-    * 2018 Yuxi Li's comprehensive DRL survey (keep updating) https://arxiv.org/abs/1701.07274
-    * 2017 Nuts and Bolts of Deep RL Experimentation by John Schulman https://www.youtube.com/watch?v=8EcdaCk9KaQ
-    * 2013 Marc Toussant's Bandits, Active Learning, Bayesian RL and Global Optimization https://www.youtube.com/watch?v=5rev-zVx1Ps
-* Repos:    
-    * Github Repo: RL-Adventure
-    * Github Repo: Denny Britz's RL
-    * Github Repo: Dopamine (Google's Platform) 
-    * Github Repo: PaddlePaddle (Baidu's Platform)
-    * Github Repo: OpenAI Baselines 
-    * Github Repo: Rich Sutton's Solution, https://github.com/ShangtongZhang/reinforcement-learning-an-introduction
-    * Github Repo: Morvan's tutorials, comprehensive materials (programming, DL, RL...)
-* Blog Posts:    
-    * 2018 Blog Post: alexirpan's RL is not working Yet
-    * 2016 Blog Post: Andrej Karpathy's Pong from Pixels     
-    * 2017 Blog Post: Otoro's Evolution-based methods, highly visual and interactive http://blog.otoro.net/2017/10/29/visual-evolution-strategies/    
-    * 2018 Blog Post: Lessons Learned Reproducing a Deep Reinforcement Learning Paper http://amid.fish/reproducing-deep-rl
-    * 2018 Blog Series: Ben Recht, benchmark between PG and random search ttp://www.argmin.net/
-    * 2017 Notes: Notes from John Schulman's "Nuts and Bolts of Deep RL Experimentation" lecture https://github.com/williamFalcon/DeepRLHacks
-    * 2019 Blog post on HRL: https://thegradient.pub/the-promise-of-hierarchical-reinforcement-learning/
-        - concept: decompose the tasks into pretinent granularity, then solve subtasks, in the end solve the main in the end.
-        - four fundamental approaches: 1. Feudal networks (manager-worker sysmems), 2. options framework, 3. HAM, finite state transition models with states abstract from env/agent information can be context (for states) and pre-designed options (for action executions), 4. MaxQ: tree representation
-            - A summary for proper situations for each methods mentioned    
-        - list recent works to extend these approaches with DNNs
+    * 2018 Udacity DRL Nano-Degree with Github Repo
+    * 2018 UC Berkerley CS294-112 DRL by Sergey Levine                
+    * 2015 UCL Reinforcement Learning by David Silver         
+    * 2017 Nuts and Bolts of Deep RL Experimentation by John Schulman (about DRL experimentation) https://www.youtube.com/watch?v=8EcdaCk9KaQ
+    * [2013 Marc Toussant's Bandits, Active Learning, Bayesian RL and Global Optimization](https://www.youtube.com/watch?v=5rev-zVx1Ps)
+    * Morvan (莫煩) Youtube Channel: comprehensive materials (programming, DL, RL...)
     
-## Unsupervised Learning
-### Research Papers
-* State Representation Learning
-	* [State Representation Learning Review (Lesort et al. 2018)](https://arxiv.org/abs/1802.04181)
-        * A comprehensive review of state representation learning for control/reinforcement learning.
-* [my own master thesis](https://drive.google.com/file/d/1wRXt6PFYZ2QVWhvixJ_ZYiXbfG4QE41b/view), Chapter 2 summarizes representatation learning and autoencoders:
-   
-            
-### Resources for Learning:
-* Courses:   
-    * Video: NIPS 2018 Unsupervised Deep Learning https://www.youtube.com/watch?v=3RVGrz7MjMg
-* Blogs Posts:
-    * Blog: inFRANCe: https://www.inference.vc/
+* Surveys Papers:      
+    * 2019 [Challenges of Real-World Reinforcement Learning](https://arxiv.org/pdf/1904.12901.pdf)
+    * 2019 [Reinforcement Learning, Fast and Slow (Neuroscience/Psychology perspectives)](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30061-0)
+    * 2019 [RL in Healthcare](https://www.semanticscholar.org/paper/Reinforcement-Learning-in-Healthcare%3A-A-Survey-Yu-Liu/222baa4e9e7ce691fdfddbc826a70e027daed70d)     
+    * 2019 [Introduction to DRL (a survey paper from U. McGills)](https://arxiv.org/abs/1811.12560)   
+    * 2019 [A Survey of Reinforcement Learning Informed by Natural Language](https://arxiv.org/abs/1906.03926) 
+    * 2018 [State Representation Learning Review (Lesort et al. 2018)](https://arxiv.org/abs/1802.04181)
+    * 2018 My own summary on representation learning [my own master thesis](https://drive.google.com/file/d/1wRXt6PFYZ2QVWhvixJ_ZYiXbfG4QE41b/view), Chapter 2 summarizes representatation learning and autoencoders:
+    * 2018 [Deep Learning for Video Game Playing](https://arxiv.org/abs/1708.07902)
+    * 2018 Yuxi Li's comprehensive DRL survey (keep updating) https://arxiv.org/abs/1701.07274
+    * 2013 [Reinforcement Learning for Robotics](https://www.researchgate.net/publication/258140920_Reinforcement_Learning_in_Robotics_A_Survey)
+        
+* Repos:    
+    * [Stable Baselines/RL baselines Zoo](https://github.com/hill-a/stable-baselines)
+    * [ReAgent (Applied Reinforcement Learning @ Facebook)](https://github.com/facebookresearch/ReAgent)
+    * [rlpyt (DRL in Pytorch by BAIR, 2019)]()
+    * [RL-Adventure (implementations of RL in PyTorch)](https://github.com/higgsfield)
+    * [TF-Agents from Google](https://github.com/tensorflow/agents)
+    * [DeepMind's TRFL](https://github.com/deepmind/trfl)
+    * [Handon ML with TF2 (incl. DRL)](https://github.com/ageron/handson-ml2)
+    * Github Repo: Denny Britz's RL
+    * Github Repo: [Dopamine, from Google](https://github.com/google/dopamine) 
+    * Github Repo: [PaddlePaddle-RARL, from Baidu](https://github.com/PaddlePaddle/PARL) 
+    * Github Repo: OpenAI Baselines 
+    * Github Repo: [Rich Sutton's Solution](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
+    * TensorForce
+    * Ray-lib
+    * [Facebook's Horizon](https://github.com/facebookresearch/Horizon)
+    * My own implementation for DRLND
+    
+* Blog Posts:        
+    * 2020 [My Top 10 Deep RL Papers of 2019 (summarized by Robert Lange) ](https://roberttlange.github.io/posts/2019/12/blog-post-9/?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter )
+    * 2020 [Model-Based Reinforcement Learning: Theory and Practice (incl. the idea of MBPO)](https://bair.berkeley.edu/blog/2019/12/12/mbpo/)
+    * 2019 [BREAKTHROUGH RESEARCH IN REINFORCEMENT LEARNING FROM 2019 (summarized by TOPBOTS)](https://www.topbots.com/top-ai-reinforcement-learning-research-papers-2019/)
+    * 2019 [RL: Comparison and Applications in Bussiness (by TOPBOTS)](https://www.topbots.com/reinforcement-learning-explained-business-applications/)
+    * 2019 [The Promise of Hierarchical RL](https://thegradient.pub/the-promise-of-hierarchical-reinforcement-learning/)
+    * 2018 [RL for Real Life Planning Problems](https://towardsdatascience.com/reinforcement-learning-for-real-life-planning-problems-31314491e5c)
+    * 2018 [RL is not working Yet](https://www.alexirpan.com/2018/02/14/rl-hard.html)
+    * 2016 [Pong from Pixels (A great Intro. to Policy Gradients)](http://karpathy.github.io/2016/05/31/rl/)     
+    * 2017 [Otoro's Evolution-based methods, highly visual and interactive](http://blog.otoro.net/2017/10/29/visual-evolution-strategies/)    
+    * 2018 [Lessons Learned Reproducing a Deep Reinforcement Learning Paper](http://amid.fish/reproducing-deep-rl)
+    * 2018 [Ben Recht, benchmark between PG and random search](http://www.argmin.net/)
+    * 2017 [Notes from John Schulman's "Nuts and Bolts of Deep RL Experimentation](https://github.com/williamFalcon/DeepRLHacks)
 
+* Books:
+    * [DRL in Actions (2020)](https://www.manning.com/books/deep-reinforcement-learning-in-action)
+    * [RL: An intro. (classic)](http://incompleteideas.net/book/the-book.html)
 
-## Deep Learning in General:
-### Resources for Learning:
-* Courses:
-    * Andrew's Deep Learning Notes
-    * Standord's CNN, NLP courses
-    * TF Summit 2019 Mar. 
-        * TensorFlow 2.0 into https://www.youtube.com/watch?v=k5c-vg4rjBw
-    * PyTorhc, TF dictionary (for searching for useful command): https://www.aiworkbox.com/lessons
-* Repos:   
-    * David Abel's Summary for Major ML conferences
-    * ageron's tf_2 course and hands-on book are great for learning DL programming (using Keras/TF)
-	* http://www.10tiao.com/html/511/201903/2652040568/4.html his talk in chinese
-    * Udacity's DL_Pytorch, good examples https://github.com/udacity/DL_PyTorch
-* Blog Posts:    
-    * (RNN) Chris Olah's RNN Tutorial http://colah.github.io/posts/2015-08-Understanding-LSTMs/  
-    * (RNN) Andrej Karpathy's RNN simple experiments
-    * [2019 (Classification)分类性能度量指标：ROC曲线、AUC值、正确率、召回率、敏感度、特异度](https://blog.csdn.net/miao0967020148/article/details/88583824)
-
-## Applications
-### Research Papers:
-* Healthcare
-	* Computational Psychiatry
-	* [Learning Representations for Counterfactual Inference (Johansson et al 2016)](https://arxiv.org/abs/1605.03661)
-        * Counter-factual inference in the context of healthcare; using Deep learning models.
-
-### Resources for Learning:
-* Courses:
-    * [Reinforcement Learning in Healthcare: Challenges and Promise (Video by Finale Doshi-Velez, 2018)](https://www.youtube.com/watch?v=OsGxPVYR2xo)
+* Periodicals:
+    * [The Gradient](https://thegradient.pub/)
+    * [BAIR BLOG](https://bair.berkeley.edu/blog/?refresh=1)
+    * [JiQiZhiXin (Synced)](https://www.jiqizhixin.com)
+    * [RL Weekly by Ryan Lee](https://www.getrevue.co/profile/seungjaeryanlee)    
+    * [RL FB Group](https://www.facebook.com/groups/36085277798/)
+    
+* TIPS:
+    * Advice for paper reading from Abbeel (FSDL-2019: Research Direction)             
