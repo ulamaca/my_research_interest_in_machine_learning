@@ -10,9 +10,9 @@ In this repo, I will get all those ideas organized and share relevant informatio
 ## Resources:
 * Tutorials/Courses
     * 2019 [ICML tutorial on Meta-learning](https://sites.google.com/view/icml19metalearning) 
-    * [2019 MIT Reinforcement Learning and Control by Dimitri Bertsekas](http://web.mit.edu/dimitrib/www/RLbook.html)
-    * [2018-19 DeepMind/UCL Advanced Deep Learning and Reinforcement Learning](https://www.youtube.com/watch?v=iOh7QUZGyiU&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
-    * 2018-19 OpenAI Spinning Up with Github Repo
+    * 2019 [MIT Reinforcement Learning and Control by Dimitri Bertsekas](http://web.mit.edu/dimitrib/www/RLbook.html)
+    * 2019 [DeepMind/UCL Advanced Deep Learning and Reinforcement Learning](https://www.youtube.com/watch?v=iOh7QUZGyiU&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
+    * 2019 OpenAI Spinning Up with Github Repo
     * 2018 Udacity DRL Nano-Degree with Github Repo
     * 2018 UC Berkerley CS294-112 DRL by Sergey Levine                
     * 2015 UCL Reinforcement Learning by David Silver         
@@ -29,7 +29,7 @@ In this repo, I will get all those ideas organized and share relevant informatio
     * 2018 [State Representation Learning Review (Lesort et al. 2018)](https://arxiv.org/abs/1802.04181)
     * 2018 My own summary on representation learning [my own master thesis](https://drive.google.com/file/d/1wRXt6PFYZ2QVWhvixJ_ZYiXbfG4QE41b/view), Chapter 2 summarizes representatation learning and autoencoders:
     * 2018 [Deep Learning for Video Game Playing](https://arxiv.org/abs/1708.07902)
-    * 2018 Yuxi Li's comprehensive DRL survey (keep updating) https://arxiv.org/abs/1701.07274
+    * 2018 [Yuxi Li's comprehensive DRL survey (keep updating)](https://arxiv.org/abs/1701.07274)
     * 2013 [Reinforcement Learning for Robotics](https://www.researchgate.net/publication/258140920_Reinforcement_Learning_in_Robotics_A_Survey)
         
 * Repos:    
@@ -39,15 +39,15 @@ In this repo, I will get all those ideas organized and share relevant informatio
     * [RL-Adventure (implementations of RL in PyTorch)](https://github.com/higgsfield)
     * [TF-Agents from Google](https://github.com/tensorflow/agents)
     * [DeepMind's TRFL](https://github.com/deepmind/trfl)
-    * [Handon ML with TF2 (incl. DRL)](https://github.com/ageron/handson-ml2)
-    * Github Repo: Denny Britz's RL
-    * Github Repo: [Dopamine, from Google](https://github.com/google/dopamine) 
-    * Github Repo: [PaddlePaddle-RARL, from Baidu](https://github.com/PaddlePaddle/PARL) 
-    * Github Repo: OpenAI Baselines 
-    * Github Repo: [Rich Sutton's Solution](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
+    * [Handon ML with TF2 (incl. DRL)](https://github.com/ageron/handson-ml2)    
+    * [Dopamine, from Google](https://github.com/google/dopamine) 
+    * [PaddlePaddle-RARL, from Baidu](https://github.com/PaddlePaddle/PARL)      
+    * [Rich Sutton's Solution](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
+    * [Facebook's Horizon](https://github.com/facebookresearch/Horizon)
     * TensorForce
     * Ray-lib
-    * [Facebook's Horizon](https://github.com/facebookresearch/Horizon)
+    * Github Repo: Denny Britz's RL
+    * Github Repo: OpenAI Baselines    
     * My own implementation for DRLND
     
 * Blog Posts:        
@@ -76,4 +76,5 @@ In this repo, I will get all those ideas organized and share relevant informatio
     * [RL FB Group](https://www.facebook.com/groups/36085277798/)
     
 * TIPS:
-    * Advice for paper reading from Abbeel (FSDL-2019: Research Direction)             
+    * Advice for paper reading from Abbeel (FSDL-2019: Research Direction)   
+    * [Machine Learning Productivity Hacks](http://amid.fish/ml-productivity)          
