@@ -61,8 +61,7 @@ In this repo, I will get all those ideas organized and share relevant informatio
     * 2018 [RL for Real Life Planning Problems](https://towardsdatascience.com/reinforcement-learning-for-real-life-planning-problems-31314491e5c)
     * 2018 [RL is not working Yet](https://www.alexirpan.com/2018/02/14/rl-hard.html)
     * 2016 [Pong from Pixels (A great Intro. to Policy Gradients)](http://karpathy.github.io/2016/05/31/rl/)     
-    * 2017 [Otoro's Evolution-based methods, highly visual and interactive](http://blog.otoro.net/2017/10/29/visual-evolution-strategies/)    
-    * 2018 [Lessons Learned Reproducing a Deep Reinforcement Learning Paper](http://amid.fish/reproducing-deep-rl)
+    * 2017 [Otoro's Evolution-based methods, highly visual and interactive](http://blog.otoro.net/2017/10/29/visual-evolution-strategies/)        
     * 2018 [Ben Recht, benchmark between PG and random search](http://www.argmin.net/)
     
 
@@ -78,12 +77,15 @@ In this repo, I will get all those ideas organized and share relevant informatio
     * [RL Weekly by Ryan Lee](https://www.getrevue.co/profile/seungjaeryanlee)    
     * [RL FB Group](https://www.facebook.com/groups/36085277798/)
     
-* TIPS:
-    * Advice for paper reading from Abbeel (FSDL-2019: Research Direction)   
+* Dev TIPS:
+    * Advice for paper reading from Pieter Abbeel ([FSDL-2019](https://fullstackdeeplearning.com/march2019): Research Direction)
+    * [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)   
+    * [Machine Learning Yearning (great tips for practical dl) from Andrew Ng.](https://www.deeplearning.ai/machine-learning-yearning/)
     * [Machine Learning Productivity Hacks](http://amid.fish/ml-productivity)
+    * 2018 [Lessons Learned Reproducing a Deep Reinforcement Learning Paper (from amid fish)](http://amid.fish/reproducing-deep-rl)
     * 2017 [Notes from John Schulman's "Nuts and Bolts of Deep RL Experimentation](https://github.com/williamFalcon/DeepRLHacks)          
 
-* Mine:
+* My own resources:
     * 2019 My Talk on PG method Introduction at Kaohsiung Taiwan [video](), [slides]()
     * 2019 My DRL repo for DRLND@Udacity
     * 2017 My survey one MB/MF RL in the Brain    
