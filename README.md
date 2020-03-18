@@ -21,6 +21,7 @@ In this repo, I will get all those ideas organized and share relevant informatio
     * Morvan's (莫煩) Youtube Channel: comprehensive materials: From Python to DL/RL/ML
     
 * Surveys Papers:      
+    * 2020 [Curriculum Learning for Reinforcement Learning Domains: A Framework and Survey](https://arxiv.org/abs/2003.04960)
     * 2019 [Challenges of Real-World Reinforcement Learning](https://arxiv.org/pdf/1904.12901.pdf)
     * 2019 [Reinforcement Learning, Fast and Slow (Neuroscience/Psychology perspectives)](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30061-0)
     * 2019 [RL in Healthcare](https://www.semanticscholar.org/paper/Reinforcement-Learning-in-Healthcare%3A-A-Survey-Yu-Liu/222baa4e9e7ce691fdfddbc826a70e027daed70d)     
