@@ -16,7 +16,7 @@
     * Short Idea: using standard NN training scheme to learn a set (usually 2-D and can be N-D) of neurons that preserve the spatial relation. Each active neuron will be a cluster center. Objective: competition-cooperation-adaptation.    
     * Resources:
         * [An illustrative short intro. (by Thales Sehn Körting)](https://www.youtube.com/watch?v=H9H6s-x-0YE)      
-        * Implementations: [MiniSOM](https://github.com/JustGlowing/minisom), [SOMPY](https://github.com/sevamoo/SOMPY)  
+        * Implementations: [MiniSOM](https://github.com/JustGlowing/minisom), [SOMPY](https://github.com/sevamoo/SOMPY), [SimpSOM](https://github.com/fcomitani/SimpSOM)
     * Usecases:
         * Deriving reward function for plausible structure, novelty for molecule generation. (Nature Biotech 2019)  
 
