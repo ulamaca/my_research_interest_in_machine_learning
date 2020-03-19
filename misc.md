@@ -18,7 +18,9 @@
 	* Decision Making Circuitry
     
 * Reinforcement Learning
-	* Research directions: Multi-Agent Systems, Gradients-Free Methods (Evolution-based), Hyperams Optimization, Bandits, Data Efficiency, Distributed Systems, Architecture Search (AutoML), Curiosity and Exploration, Model-based RL, 
+	* Research directions: Multi-Agent Systems, Gradients-Free Methods (Evolution-based), Hyperams Optimization, Bandits, Data Efficiency, Distributed Systems, Architecture Search (AutoML), Curiosity and Exploration, Model-based RL,
+	* 2019 [StyleGAN](https://github.com/NVlabs/stylegan)
+	    *  Great Disentangled Image Generation 
     * [MBRL for Atari (Lukasz Kaiser et al. 2019)](https://sites.google.com/view/modelbasedrlatari/home)
         - extend world models (Ha et al. 2018) into Atari environment, and achieved 10x steps sample efficiency.
         - technical:
@@ -39,6 +41,7 @@
         * Using centralized critic to generalize DDPG to general multi-agent setting
     * [2017 PPO]
         * data efficient and easy-to-implement policy gradients agents; also check DeepMind's Parkour agent.
+     
 
 ### Resources for Learning:
 * Courses:
