@@ -3,7 +3,7 @@
     * Key Features:
         * ML-Type: Supervised/Unsupervised/Reinforcement
         * ML-Subtype: (Supervised/Unsupervised) Few Shots, (Unsupervised) Self-supervised, (Reinforcement) Imitation, Reverse RL
-    & Arch-Type: Neural Networks, Linear Model, CNN, ...
+    * Arch-Type: Neural Networks, Linear Model, CNN, ...
     * Short Idea: 
     * Resources: 
     * (optional) Usecases
