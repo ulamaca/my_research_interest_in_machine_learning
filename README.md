@@ -18,7 +18,8 @@ In this repo, I will get all those ideas organized and share relevant informatio
     * 2015 UCL Reinforcement Learning by David Silver         
     * 2017 [Nuts and Bolts of Deep RL Experimentation by John Schulman (about DRL experimentation)](https://www.youtube.com/watch?v=8EcdaCk9KaQ)
     * 2013 [Marc Toussant's Bandits, Active Learning, Bayesian RL and Global Optimization](https://www.youtube.com/watch?v=5rev-zVx1Ps)
-    * Morvan's (莫煩) Youtube Channel: comprehensive materials: From Python to DL/RL/ML
+    * [莫煩 (Morvan Zhou) Youtube Channel (in Chinese/ English sub)](https://www.youtube.com/user/MorvanZhou/featured)
+    * [冯超 (Feng Chao) <无痛的机器学习> (in Chinese)](https://zhuanlan.zhihu.com/p/26884917)
     
 * Surveys Papers:      
     * 2020 [Curriculum Learning for Reinforcement Learning Domains: A Framework and Survey](https://arxiv.org/abs/2003.04960)
@@ -60,7 +61,7 @@ In this repo, I will get all those ideas organized and share relevant informatio
     * 2019 [RL: Comparison and Applications in Bussiness (by TOPBOTS)](https://www.topbots.com/reinforcement-learning-explained-business-applications/)
     * 2019 [The Promise of Hierarchical RL](https://thegradient.pub/the-promise-of-hierarchical-reinforcement-learning/)
     * 2018 [RL for Real Life Planning Problems](https://towardsdatascience.com/reinforcement-learning-for-real-life-planning-problems-31314491e5c)
-    * 2018 [RL is not working Yet](https://www.alexirpan.com/2018/02/14/rl-hard.html)
+    * 2018 [RL does not work Yet](https://www.alexirpan.com/2018/02/14/rl-hard.html)
     * 2016 [Pong from Pixels (A great Intro. to Policy Gradients)](http://karpathy.github.io/2016/05/31/rl/)     
     * 2017 [Otoro's Evolution-based methods, highly visual and interactive](http://blog.otoro.net/2017/10/29/visual-evolution-strategies/)        
     * 2018 [Ben Recht, benchmark between PG and random search](http://www.argmin.net/)

@@ -80,6 +80,9 @@
 * State Representation Learning
 	* [State Representation Learning Review (Lesort et al. 2018)](https://arxiv.org/abs/1802.04181)
         * A comprehensive review of state representation learning for control/reinforcement learning.
+* Neural Approaches to Conversational AI: Question Answering, Task-Oriented Dialogues and Social Chatbots
+    * including RL related applications
+
 * [my own master thesis](https://drive.google.com/file/d/1wRXt6PFYZ2QVWhvixJ_ZYiXbfG4QE41b/view), Chapter 2 summarizes representatation learning and autoencoders:
    
             
