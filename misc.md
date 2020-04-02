@@ -8,6 +8,8 @@
         * https://towardsdatascience.com/checklist-for-debugging-neural-networks-d8b2a9434f21
 	* TF dev summit (check TF's medium) 
     * TF2, the tutorial from ageron
+    * TF, name_scope vs variable_scope: https://www.zhihu.com/question/54513728
+    
     
      
 

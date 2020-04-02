@@ -34,6 +34,7 @@ In this repo, I will get all those ideas organized and share relevant informatio
     * 2013 [Reinforcement Learning for Robotics](https://www.researchgate.net/publication/258140920_Reinforcement_Learning_in_Robotics_A_Survey)
         
 * Repos:    
+    * [Tianshou (2020, a light-weight/fast Pytorch-based DRL agents implementation)](https://github.com/thu-ml/tianshou)
     * [Stable Baselines/RL baselines Zoo](https://github.com/hill-a/stable-baselines)
     * [ReAgent (Applied Reinforcement Learning @ Facebook)](https://github.com/facebookresearch/ReAgent)
     * [rlpyt (DRL in Pytorch by BAIR, 2019)]()
@@ -70,6 +71,7 @@ In this repo, I will get all those ideas organized and share relevant informatio
 * Books:
     * [DRL in Actions (2020)](https://www.manning.com/books/deep-reinforcement-learning-in-action)
     * [RL: An intro. (classic)](http://incompleteideas.net/book/the-book.html)
+    * 強化學習精要(馮超)
 
 * Periodicals:
     * [Distill](https://distill.pub/)
