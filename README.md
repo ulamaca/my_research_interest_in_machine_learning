@@ -74,20 +74,13 @@ In this repo, I will get all those ideas organized and share relevant informatio
     * 強化學習精要(馮超)
 
 * Periodicals:
-    * [Distill](https://distill.pub/)
-    * [The Gradient](https://thegradient.pub/)
-    * [BAIR BLOG](https://bair.berkeley.edu/blog/?refresh=1)
-    * [JiQiZhiXin (Synced, in Chinese)](https://www.jiqizhixin.com)
     * [RL Weekly by Ryan Lee](https://www.getrevue.co/profile/seungjaeryanlee)    
     * [RL FB Group](https://www.facebook.com/groups/36085277798/)
-    
-* Dev TIPS:
-    * Advice for paper reading from Pieter Abbeel ([FSDL-2019](https://fullstackdeeplearning.com/march2019): Research Direction)
-    * [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)   
-    * [Machine Learning Yearning (great tips for practical dl) from Andrew Ng.](https://www.deeplearning.ai/machine-learning-yearning/)
-    * [Machine Learning Productivity Hacks](http://amid.fish/ml-productivity)
+
+* DRL Dev Tips:
     * 2018 [Lessons Learned Reproducing a Deep Reinforcement Learning Paper (from amid fish)](http://amid.fish/reproducing-deep-rl)
-    * 2017 [Notes from John Schulman's "Nuts and Bolts of Deep RL Experimentation](https://github.com/williamFalcon/DeepRLHacks)          
+    * 2017 [Notes from John Schulman's "Nuts and Bolts of Deep RL Experimentation](https://github.com/williamFalcon/DeepRLHacks)        
+  
 
 * My own resources:
     * 2019 My Talk on PG method Introduction at Kaohsiung Taiwan [video](), [slides]()

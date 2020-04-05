@@ -95,8 +95,7 @@
 * Courses:   
     * Video: NIPS 2018 Unsupervised Deep Learning https://www.youtube.com/watch?v=3RVGrz7MjMg
 * Blogs:
-    * inFRANCe: https://www.inference.vc/
-    * [Lil's Log (a good site for DL/RL and other related topics)](https://lilianweng.github.io/lil-log/2020/01/29/curriculum-for-reinforcement-learning.html?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter#curriculum-through-distillation)
+
 
 
 ## Deep Learning in General:

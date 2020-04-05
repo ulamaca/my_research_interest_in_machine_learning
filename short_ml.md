@@ -26,6 +26,10 @@
     * Usecases:
         * research: GAIL (2016)
 
+* ELBO (Evidence Lower BOund; aka Evidence Lower Bound)
+    * Evidence = likelihood
+    * Marginal Evidence
+
         
 ## Glossary
 * Topology: geometric properties or spatial relation or arrangement/order that will not be changed by (continuous) deformation of the subject.
