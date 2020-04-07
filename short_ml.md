@@ -31,6 +31,7 @@
     * Marginal Evidence
 
 * Variance in Reinforcement Learning setting
+    * it is the variance of Total reward over trajectory; so it is a expectation over policy distribution and through reward transform 
     * [reference](https://medium.com/mlreview/making-sense-of-the-bias-variance-trade-off-in-deep-reinforcement-learning-79cf1e83d565)
 
         
