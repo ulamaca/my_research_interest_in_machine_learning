@@ -5,16 +5,25 @@
 * [Machine Learning Yearning (great tips for practical dl) from Andrew Ng.](https://www.deeplearning.ai/machine-learning-yearning/)
 * [Machine Learning Productivity Hacks](http://amid.fish/ml-productivity)
 
-# Learning (basics, interview prep)
+# Interview prep
 * [DL-Notes-for-Interview](https://github.com/vivienzou1/DL-Notes-for-Interview)    
-* [Notes for Ng's Deep Learning on Coursera by TessFerrandez](https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng)
-* [ML for everyone from vas3k](http://vas3k.com/blog/machine_learning/)
 * [Machine Learning Interviews by Chip Huyen](https://huyenchip.com/research/)
     * check: Nov 16-17, 2019: Machine Learning Interviews; her github is worthy checking as well
 
-
+# Basics, Theory 
+* [Introduction to Tensor Decompositions and their Applications in Machine Learning](https://arxiv.org/abs/1711.10781)
+    * a in-depth overview for Tensor Decomposition
+* [Notes for Ng's Deep Learning on Coursera by TessFerrandez](https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng)
+* [ML for everyone from vas3k](http://vas3k.com/blog/machine_learning/)
+* [An overview of gradient descent optimization algorithms by Sebastian Ruder](https://arxiv.org/abs/1609.04747)
+* [Mathematics of Deep Learning](https://arxiv.org/abs/1712.04741)
+* [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
+* [PRML by Chris Bishop]
+    
 # Tools:
 * Visulization:
+    * [an-inquiry-into-matplotlib-figures.ipynb](https://gist.github.com/akashpalrecha/4652e98c9b2f3f1961637be001dc0239)
+        * illustrative demo and discussion on how MPL works internally
     * [3 Awesome viz. techniques for every datasets](https://mlwhiz.com/blog/2019/04/19/awesome_seaborn_visuals/)
         * (Seaborn) Categorical Correlation with Graphs, Pairplots, Swarmplots and Graph Annotations.
     * [plotnine: ggplot (gg=grammar of graphics) for Python]
