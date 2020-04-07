@@ -30,6 +30,9 @@
     * Evidence = likelihood
     * Marginal Evidence
 
+* Variance in Reinforcement Learning setting
+    * [reference](https://medium.com/mlreview/making-sense-of-the-bias-variance-trade-off-in-deep-reinforcement-learning-79cf1e83d565)
+
         
 ## Glossary
 * Topology: geometric properties or spatial relation or arrangement/order that will not be changed by (continuous) deformation of the subject.
