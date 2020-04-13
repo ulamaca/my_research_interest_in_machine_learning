@@ -27,8 +27,7 @@
         * research: GAIL (2016)
 
 * ELBO (Evidence Lower BOund; aka Evidence Lower Bound)
-    * Evidence = likelihood
-    * Marginal Evidence
+    * Evidence = (Marginal) likelihood P(X) X is the observed dataset
 
 * Variance in Reinforcement Learning setting
     * it is the variance of Total reward over trajectory; so it is a expectation over policy distribution and through reward transform 

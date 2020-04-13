@@ -5,6 +5,8 @@
 * [Machine Learning Yearning (great tips for practical dl) from Andrew Ng.](https://www.deeplearning.ai/machine-learning-yearning/)
 * [Machine Learning Productivity Hacks](http://amid.fish/ml-productivity)
 
+# DL Deployment Techniques:
+* 2020 [**(not yet read)Why we do machine learning engineering with YAML, not notebooks (Cortex lab)](https://towardsdatascience.com/why-we-do-machine-learning-engineering-with-yaml-not-notebooks-a2a97f5e04f8)
 # Interview prep
 * [DL-Notes-for-Interview](https://github.com/vivienzou1/DL-Notes-for-Interview)    
 * [Machine Learning Interviews by Chip Huyen](https://huyenchip.com/research/)
