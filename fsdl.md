@@ -21,6 +21,7 @@
 * [Mathematics of Deep Learning](https://arxiv.org/abs/1712.04741)
 * [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 * [PRML by Chris Bishop]
+* [OpenIntro to Stats (Free)](https://www.openintro.org/book/os/)
     
 # Tools:
 * Visulization:
