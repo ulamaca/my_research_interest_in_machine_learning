@@ -43,3 +43,6 @@
         
 ## Glossary
 * Topology: geometric properties or spatial relation or arrangement/order that will not be changed by (continuous) deformation of the subject.
+
+## Reference
+* OpenIntro Statistics
