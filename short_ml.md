@@ -33,6 +33,13 @@
     * it is the variance of Total reward over trajectory; so it is a expectation over policy distribution and through reward transform 
     * [reference](https://medium.com/mlreview/making-sense-of-the-bias-variance-trade-off-in-deep-reinforcement-learning-79cf1e83d565)
 
+* ANOVA (ANalysis of VAriance)
+    * Goal: to test 1 factor with multiple groups (conditions), whether there is at least one group has significant difference (but not knowing which specific one differs)
+    * Short Idea: Signal/Noise ratio test (using F-statistics); *Signal*=between group variance (MSG) and *Noise*=average within group variance (MSE) 
+    * Usecases: 
+        * example question: Are these brands ACER/DELL/ASUS/Apple having different battery duration? 
+    * Roadmap: T-test (1 factor, 2 groups) -> ANOVA (1 factor, N groups, test: any difference?) -> multiple T-Tests (1 factor, N groups, test: where is the difference?)
+
         
 ## Glossary
 * Topology: geometric properties or spatial relation or arrangement/order that will not be changed by (continuous) deformation of the subject.
