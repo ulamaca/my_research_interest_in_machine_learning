@@ -39,6 +39,7 @@
     * 2020 [@jupyterlab/debugger, debugging with jupyter lab](https://github.com/jupyterlab/debugger)
     * 2019 [Clean Code ML](https://github.com/davified/clean-code-ml)
         * together with a blog [Coding habits for Data Scientists](https://www.thoughtworks.com/insights/blog/coding-habits-data-scientists)
+        * (2020 update) together with vid course as well [link](https://www.youtube.com/watch?v=Edn6XxWmtEs&list=PLO9pkowc_99ZhP2yuPU8WCfFNYEx2IkwR&index=2&t=0s) 
 
 # Example Practical Projects:
 * [Simplest Face Recognition Project](https://github.com/ageitgey/face_recognition)
