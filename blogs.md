@@ -25,6 +25,8 @@
 * Medium Digest (personalized)
 * NVIDIA Developer
 * FCAI News letter
+* Applied AI (TOPBOTS)
+* Emerj AI Advantage
 
 
 # News
