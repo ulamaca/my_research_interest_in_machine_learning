@@ -50,7 +50,9 @@
         * [Datasets for NLP](https://machinelearningmastery.com/datasets-natural-language-processing/)
 * Data Preparation:
     * chip huyen's lazynlp
-    
+
+* Databases:
+    * 2020 [Things I Wished More Developers Knew About Databases (by Jaana Dogan)](https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78)    
 
 # Python Dev Techniques:
 * [Iterables vs. Iterators vs. Generators](https://nvie.com/posts/iterators-vs-generators/)
