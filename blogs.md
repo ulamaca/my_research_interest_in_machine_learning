@@ -14,7 +14,17 @@
 * [Distill](https://distill.pub/)
 * [The Gradient](https://thegradient.pub/)
 * [BAIR BLOG](https://bair.berkeley.edu/blog/?refresh=1)
-* 
+
+
+# Mailing List
+* connectionists (conference, PhD/Research positions)
+* Data Science Weekly
+* Deep Learning Weekly
+* AI Scholar Weekly
+* Synced Global AI Weekly
+* Medium Digest (personalized)
+* NVIDIA Developer
+* FCAI News letter
 
 
 # News
