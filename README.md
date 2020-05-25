@@ -53,7 +53,8 @@ In this repo, I will get all those ideas organized and share relevant informatio
     * Github Repo: OpenAI Baselines    
     * My own implementation for DRLND
     
-* Blog Posts:        
+* Blog Posts:       
+    * 2020 [Deep Reinforcement Learning works-Now What?](https://tesslerc.github.io/posts/drl_works_now_what/)
     * 2020 [Paths perspectives on value learning (offering good intuition ground for thinking about TD methods)](https://distill.pub/2019/paths-perspective-on-value-learning/)
     * 2020 [TD and Dopamine (from DeepMind)](https://deepmind.com/blog/article/Dopamine-and-temporal-difference-learning-A-fruitful-relationship-between-neuroscience-and-AI?utm_campaign=RL%20Weekly&utm_medium=email&utm_source=Revue%20newsletter)    
     * 2020 [My Top 10 Deep RL Papers of 2019 (summarized by Robert Lange) ](https://roberttlange.github.io/posts/2019/12/blog-post-9/?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter )
