@@ -14,7 +14,7 @@
 
 ## NLP tricks:
 * 2020 [Visual Data Augmentation Tricks for NLP](https://amitness.com/2020/05/data-augmentation-for-nlp/)
-
+* [A minimal tutorial for pack/pad sequences in PyTorch](https://gist.github.com/HarshTrivedi/f4e7293e941b17d19058f6fb90ab0fec)
 
 ## Text Matching:
 * https://github.com/NTMC-Community/MatchZoo
