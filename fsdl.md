@@ -41,6 +41,10 @@
         * together with a blog [Coding habits for Data Scientists](https://www.thoughtworks.com/insights/blog/coding-habits-data-scientists)
         * (2020 update) together with vid course as well [link](https://www.youtube.com/watch?v=Edn6XxWmtEs&list=PLO9pkowc_99ZhP2yuPU8WCfFNYEx2IkwR&index=2&t=0s) 
 
+* Templates
+   * [Pytorch Template](https://github.com/victoresque/pytorch-template)
+   * [Data Science Template](https://drivendata.github.io/cookiecutter-data-science/)
+
 # Example Practical Projects:
 * [Simplest Face Recognition Project](https://github.com/ageitgey/face_recognition)
    
