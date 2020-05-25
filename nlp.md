@@ -12,7 +12,8 @@
     * [GCN图卷积原理和文本领域应用](https://zhuanlan.zhihu.com/p/82927938)
     * GCN intro. by T.Kipf
 
-
+## NLP tricks:
+* 2020 [Visual Data Augmentation Tricks for NLP](https://amitness.com/2020/05/data-augmentation-for-nlp/)
 
 
 ## Text Matching:
