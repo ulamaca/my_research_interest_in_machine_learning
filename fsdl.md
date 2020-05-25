@@ -62,3 +62,6 @@
 # Python Dev Techniques:
 * [Iterables vs. Iterators vs. Generators](https://nvie.com/posts/iterators-vs-generators/)
 * RealPython (a comprehensive sites for python dev tips)
+
+# Make Money 
+* [https://github.com/easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money)
