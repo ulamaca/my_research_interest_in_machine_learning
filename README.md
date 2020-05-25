@@ -54,6 +54,7 @@ In this repo, I will get all those ideas organized and share relevant informatio
     * My own implementation for DRLND
     
 * Blog Posts:       
+    * 2020 [Exploring Bayesian Optimization](https://distill.pub/2020/bayesian-optimization/)
     * 2020 [Deep Reinforcement Learning works-Now What?](https://tesslerc.github.io/posts/drl_works_now_what/)
     * 2020 [Paths perspectives on value learning (offering good intuition ground for thinking about TD methods)](https://distill.pub/2019/paths-perspective-on-value-learning/)
     * 2020 [TD and Dopamine (from DeepMind)](https://deepmind.com/blog/article/Dopamine-and-temporal-difference-learning-A-fruitful-relationship-between-neuroscience-and-AI?utm_campaign=RL%20Weekly&utm_medium=email&utm_source=Revue%20newsletter)    
