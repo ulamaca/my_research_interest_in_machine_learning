@@ -22,6 +22,7 @@
 * [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 * [PRML by Chris Bishop]
 * [OpenIntro to Stats (Free)](https://www.openintro.org/book/os/)
+* [機器學習南瓜書(西瓜書公視推倒](https://github.com/datawhalechina/pumpkin-book)
     
 # Tools:
 * Visulization:
