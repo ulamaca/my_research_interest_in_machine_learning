@@ -46,6 +46,7 @@ In this repo, I will get all those ideas organized and share relevant informatio
     * [PaddlePaddle-RARL, from Baidu](https://github.com/PaddlePaddle/PARL)      
     * [Rich Sutton's Solution](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
     * [Facebook's Horizon](https://github.com/facebookresearch/Horizon)
+    * [rl_labs_notebooks (osigaud)](https://github.com/osigaud/rl_labs_notebooks)
     * Keras-RL
     * TensorForce
     * Ray-lib
